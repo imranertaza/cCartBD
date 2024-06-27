@@ -1,0 +1,294 @@
+@media only screen and (max-width: 991px) {
+    .main-barnd-logo {
+        display: "block"
+    }
+
+    .header-nav {
+        display: none;
+    }
+
+    .banner-content-headding {
+        margin: auto;
+        text-align: center;
+    }
+
+    .banner-content-text {
+        margin: auto;
+        text-align: center;
+    }
+
+    .banner .price-buy ul {
+        text-align: center;
+    }
+
+    .banner .banner-img {
+        margin: auto;
+    }
+
+    .main-image-massege {
+        display: none;
+    }
+
+    .banner-image-option {
+        text-align: center;
+    }
+
+    header nav {
+        display: none;
+    }
+
+    .banner-text-content {
+        text-align: center;
+    }
+
+    .main-banner-img {
+        margin-top: 61px;
+    }
+
+    .banner-content {
+        padding-top: 0px;
+    }
+
+    .main-barnd-logo {
+        color: #000;
+        font-family: 'Noto Sans Bengali', sans-serif;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        display: block;
+        text-align: center;
+        padding-bottom: 47px;
+        padding-top: 90px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .info-img {
+        text-align: center;
+    }
+
+    .info-text-content-heading h3 {
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .pakege-section-headding h2 {
+        text-align: center;
+    }
+
+    .pakege-text-para p {
+        text-align: center;
+        padding-right: 0px;
+    }
+
+    .footer-logo {
+        text-align: center;
+    }
+
+    .footer-text {
+        text-align: center;
+        margin: auto;
+    }
+
+    .fl-deadding {
+        text-align: center;
+    }
+
+    .footer-section ul {
+        text-align: center;
+    }
+
+    .footer-contuct ul li {
+        justify-content: center;
+    }
+
+    .fl-deadding {
+        margin-top: 55px;
+    }
+
+    .pakege-picture {
+        text-align: center;
+    }
+
+    .pakege-section-headding h2 {
+        padding-top: 59px;
+        color: #312B2B;
+        font-family: 'Noto Sans Bengali', sans-serif;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 41px;
+        margin-bottom: 30px;
+    }
+
+    .responsive-item {
+        display: block;
+    }
+
+    .desktop {
+        display: none;
+    }
+
+    .about-text {
+        margin: auto;
+        padding-left: 0;
+    }
+
+    .about-us-image {
+        margin-top: 28px;
+        margin-bottom: 98px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .m-add {
+        margin-bottom: 111px;
+    }
+
+    .price-buy ul li {
+        display: block;
+        text-align: center;
+    }
+
+    .price-buy-ul {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .price-buy-li-1 {
+        order: 2;
+        margin-bottom: 13px;
+    }
+
+    .price-buy-li-2 {
+        order: 1;
+        margin-bottom: 7px;
+    }
+
+    .price-buy-li-3 {
+        order: 3;
+    }
+
+    .mt-57 {
+        margin-top: 57px;
+    }
+
+    .free-del {
+
+        font-size: 16px !important;
+
+    }
+
+    .about-text {
+        text-align: center;
+    }
+
+    .r-order-2 {
+        order: 2;
+    }
+
+    .r-order-1 {
+        order: 1;
+    }
+
+    .mt-20 {
+        margin-top: 20px;
+    }
+
+    .heading-fitbak {
+        margin-bottom: 108px;
+    }
+
+    .fitback-section {
+        padding-top: 86px;
+    }
+
+    .mt-37 {
+        margin-top: 37px;
+    }
+
+    .text-about-video {
+        padding-left: 0px;
+    }
+
+    .text-about-video h2 {
+        padding-top: 0px;
+    }
+
+    .text-about-video {
+        text-align: center;
+    }
+
+    .about-video-section {
+        padding-top: 47px;
+        padding-bottom: 55px;
+    }
+
+    .video-content video {
+        height: 234px;
+    }
+
+    .text-about-video {
+        margin: auto;
+    }
+
+    .about-product {
+        padding-top: 57px;
+        padding-bottom: 0px;
+    }
+
+    .product-info-section {
+        padding-top: 0px;
+        padding-bottom: 66px;
+    }
+
+    .custom-card {
+        margin-bottom: 40px;
+    }
+
+    .nav-btn {
+        display: inline-flex;
+        padding: 10px 64px !important;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .shaow-cus::after {
+        display: flex;
+        width: 188px;
+        height: 31px;
+        padding: 10px 24px;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        flex-shrink: 0;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .customer-card {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (max-width: 944px) {
+    .product-opportunity-chart {
+        display: none;
+    }
+
+    .sesponsive-img-view {
+        display: block;
+        margin-top: 28px;
+        margin-bottom: 98px;
+        max-width: 330px;
+        margin: auto;
+    }
+
+    .sesponsive-img-view img {
+        width: 100%;
+    }
+}
