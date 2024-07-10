@@ -24,6 +24,12 @@ class ModulesSettings extends Migration
                 'type'       => 'VARCHAR',
                 'constraint' => 255,
             ],
+            'label' => [
+                'type' => 'VARCHAR',
+                'constraint' => 255,
+                'null' => true,
+                'default' => null,
+            ],
             'value' => [
                 'type' => 'text',
                 'null' => true,
